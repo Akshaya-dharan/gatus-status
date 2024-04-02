@@ -42,7 +42,7 @@ endpoints:
 
   - name: icmp-ping
     url: "icmp://example.org"
-    interval: 1m
+    interval: 2m
     conditions:
       - "[CONNECTED] == true"
 
