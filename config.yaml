@@ -1,7 +1,7 @@
 ui:
 title: "Health Status UI"
 header: "Testing the UI"
-description: "Here is the description of our test"
+description: "Here you can find the description of our test"
 
 endpoints:
   - name: front-end
