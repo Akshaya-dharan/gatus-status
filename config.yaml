@@ -1,6 +1,6 @@
 ui:
 title: "health Status UI"
-header: "testing the UI"
+header: "Testing the UI"
 description: "Here you can find the description of our test"
 
 endpoints:
