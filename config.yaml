@@ -1,15 +1,8 @@
 ui:
-<<<<<<< HEAD
   title: "Health Status UI"
   header: "Testing the UI"
   description: "Here you can find the description of our testing"
 
-endpoints:
-  - name: dummy-url
-    url: "https://aaya.com"
-    interval: 5m
-    conditions:
-      - "[STATUS] == 200"
 =======
 >>>>>>> ed2e76a693b332cfd447c05c28376a915e8d6b64
 endpoints:
@@ -65,3 +58,5 @@ endpoints:
     interval: 1h
     conditions:
       - "[DOMAIN_EXPIRATION] > 720h"
+
+
