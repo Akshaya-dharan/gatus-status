@@ -11,10 +11,6 @@ endpoints:
     conditions:
       - "[STATUS] == 200"
 =======
-title: "health Status UI"
-header: "Testing the UI"
-description: "Here you can find the description of our testing"
-
 >>>>>>> ed2e76a693b332cfd447c05c28376a915e8d6b64
 endpoints:
   - name: front-end
