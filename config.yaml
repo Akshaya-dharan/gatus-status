@@ -1,3 +1,14 @@
+ui:
+  title: "Health Status UI"
+  header: "Testing the UI"
+  description: "Here you can find the description of our testing"
+
+endpoints:
+  - name: dummy-url
+    url: "https://aaya.com"
+    interval: 5m
+    conditions:
+      - "[STATUS] == 200"
 endpoints:
   - name: front-end
     group: core
